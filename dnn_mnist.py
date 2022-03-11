@@ -25,9 +25,9 @@ Y_test =  to_categorical(Y_test, classes)
  
 ###3. Set up parameters
 input_size = 784
-batch_size = 100    
-hidden_neurons = 400    
-epochs = 30
+batch_size = 64    
+hidden_neurons = 512    
+epochs = 25
  
 ###4.Build the model
 model = Sequential()     
@@ -43,4 +43,4 @@ model.fit(X_train, Y_train, batch_size=batch_size, epochs=epochs, verbose=1)
 ###5.Test 
 score = model.evaluate(X_test, Y_test, verbose=1)
 print('\n''Test accuracy:', score[1]) 
-#Test accuracy: 0.983
+print('\n''Test score loss:', score[0]) 
