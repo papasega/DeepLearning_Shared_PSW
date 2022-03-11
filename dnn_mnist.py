@@ -37,7 +37,7 @@ model.add(Dense(classes, input_dim=hidden_neurons))
 model.add(Activation('softmax'))
 
 model.compile(loss='categorical_crossentropy', 
-    metrics=['accuracy'], optimizer='adadelta')
+    metrics=['accuracy'], optimizer='adam')
 model.summary(
 history = model.fit(X_train, Y_train, batch_size=batch_size, epochs=epochs, verbose=1)
  
