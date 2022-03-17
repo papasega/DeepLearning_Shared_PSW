@@ -1,4 +1,4 @@
-%%time
+#%%time
 #########################################################
 ###By PSW: Test rapide d'un DNN avec TensorFlow KeRas ###
 #########################################################
@@ -38,7 +38,7 @@ model.add(Activation('softmax'))
 
 model.compile(loss='categorical_crossentropy', 
     metrics=['accuracy'], optimizer='adam')
-model.summary(
+model.summary()
 history = model.fit(X_train, Y_train, batch_size=batch_size, epochs=epochs, verbose=1)
  
 ###5.Test 
