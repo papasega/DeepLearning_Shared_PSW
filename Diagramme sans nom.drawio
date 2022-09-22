@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T13:18:54.006Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="6Ir_B6aq5Qg5z6FqrXCu" version="20.3.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-22T15:36:53.099Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="LPtCI-z1KnbI7623g1HQ" version="20.3.3" type="github" pages="3">
   <diagram id="xbcVloasIDP0w_q_Y2k0" name="Page-1">
-    <mxGraphModel dx="982" dy="123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1315" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,10 +135,10 @@
         <mxCell id="XyE7iJVtoOSYU-6w5UKD-48" value="&lt;font face=&quot;Georgia&quot;&gt;Augmented&amp;nbsp;&lt;br&gt;dataset&amp;nbsp;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="580" width="100" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XyE7iJVtoOSYU-6w5UKD-49" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;X&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="70" y="730" width="50" height="20" as="geometry" />
+        <mxCell id="XyE7iJVtoOSYU-6w5UKD-49" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;X&lt;br&gt;#1424&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="71" y="730" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XyE7iJVtoOSYU-6w5UKD-50" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;6*X&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="XyE7iJVtoOSYU-6w5UKD-50" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;6*X&lt;br&gt;#8544&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="755" y="740" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XyE7iJVtoOSYU-6w5UKD-51" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Audio Data Augmentation&amp;nbsp;&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
@@ -148,7 +148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5akbNSl25G_iMt7MBCtN" name="Page-2">
-    <mxGraphModel dx="1178" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
           <mxGeometry y="550" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pk4qYd-pC2LTZVjaMkFs-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Process 2&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry y="170" width="110" height="30" as="geometry" />
+          <mxGeometry y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j8eH5AvT_JrjKE0dpJpr-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jCjwUt0B32HQbpiLHfgP-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -185,7 +185,7 @@
             <mxPoint x="160" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NVPbH-vFN47MmLZfurPB-7" value="&lt;font face=&quot;Georgia&quot;&gt;Original&lt;br&gt;&amp;nbsp;+ &lt;br&gt;AIP&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="NVPbH-vFN47MmLZfurPB-7" value="&lt;font face=&quot;Georgia&quot;&gt;Original&lt;br&gt;&amp;nbsp;+ &lt;br&gt;AIP_Original&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="NVPbH-vFN47MmLZfurPB-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontFamily=Georgia;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NVPbH-vFN47MmLZfurPB-7">
@@ -215,11 +215,11 @@
             <mxPoint x="340" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NVPbH-vFN47MmLZfurPB-14" value="&lt;font face=&quot;Georgia&quot;&gt;Original&lt;br&gt;&amp;nbsp;+ &lt;br&gt;AIP&lt;br&gt;+&lt;br&gt;AWN_Original&lt;br&gt;+&lt;br&gt;AWN_AIP&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="NVPbH-vFN47MmLZfurPB-14" value="&lt;font face=&quot;Georgia&quot;&gt;Original&lt;br&gt;&amp;nbsp;+ &lt;br&gt;AIP_Original&lt;br&gt;+&lt;br&gt;AWN_Original&lt;br&gt;+&lt;br&gt;AWN_AIP_Original&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="400" y="300" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Y-n-VNNWfPh7M75uVoov-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;X&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="30" y="680" width="50" height="20" as="geometry" />
+        <mxCell id="Y-n-VNNWfPh7M75uVoov-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;X&lt;br&gt;#1424&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="690" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y-n-VNNWfPh7M75uVoov-2" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;2¹ * X&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="220" y="590" width="60" height="20" as="geometry" />
@@ -277,11 +277,14 @@
         </mxCell>
         <mxCell id="DtmLewtXLUJ-fFA1eWdr-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Georgia;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="699.71" y="470" as="sourcePoint" />
-            <mxPoint x="699.71" y="450" as="targetPoint" />
+            <mxPoint x="709.71" y="460" as="sourcePoint" />
+            <mxPoint x="709.71" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DtmLewtXLUJ-fFA1eWdr-3" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;2⁵ * X = 32*X&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DtmLewtXLUJ-fFA1eWdr-3" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;2⁵ * X = 32*X&lt;br&gt;#45568&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="635" y="530" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DtmLewtXLUJ-fFA1eWdr-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontFamily=Georgia;fontSize=18;" edge="1" parent="1">
@@ -297,13 +300,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DtmLewtXLUJ-fFA1eWdr-7" value="&lt;span style=&quot;font-family: Georgia;&quot;&gt;ARG&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="120" width="60" height="60" as="geometry" />
+          <mxGeometry x="600" y="120" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DtmLewtXLUJ-fFA1eWdr-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Georgia;fontSize=18;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="90" width="160" height="100" as="geometry" />
+          <mxGeometry x="600" y="120" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DtmLewtXLUJ-fFA1eWdr-9" value="&lt;span style=&quot;font-family: Georgia;&quot;&gt;ATS&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="120" width="60" height="60" as="geometry" />
+          <mxGeometry x="670" y="120" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4ODfQJBS0JVsPMSSbOh-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontFamily=Georgia;fontSize=18;fillColor=#FFFFFF;gradientColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="30" height="30" as="geometry" />
@@ -320,6 +323,32 @@
         <mxCell id="T4ODfQJBS0JVsPMSSbOh-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontFamily=Georgia;fontSize=18;fillColor=#FFFFFF;gradientColor=none;strokeWidth=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="T4ODfQJBS0JVsPMSSbOh-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;strokeWidth=2;fontFamily=Georgia;fontSize=18;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="200" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T4ODfQJBS0JVsPMSSbOh-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;AIP: Add Invert Polarity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="180" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4ODfQJBS0JVsPMSSbOh-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;AWN: Add White Noise&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pb5obXztxbSKqinW0jiO-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;APS: Add Pitch Scale&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="20" y="255" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pb5obXztxbSKqinW0jiO-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ATS: Add Time Stetch&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pb5obXztxbSKqinW0jiO-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ARG: Add Random Gain&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="170" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="01LI8YgHSwjDs-MR8Szb" name="Page-3">
+    <mxGraphModel dx="1594" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
