@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T07:29:14.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="sPQA00LPdwmpQHFEAMEk" version="20.3.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-24T16:03:10.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="D6A_O1B4OwplcLI08KC-" version="20.3.6" type="github" pages="5">
   <diagram id="xbcVloasIDP0w_q_Y2k0" name="Process1-classic">
     <mxGraphModel dx="1038" dy="139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -603,7 +603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CNN-biLSTM-ATTENTION" id="yBZ0PNqD2B-lWl_TLVcD">
-    <mxGraphModel dx="1178" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="jnVpb1ak_LSvOi5Igh9p-0" />
         <mxCell id="jnVpb1ak_LSvOi5Igh9p-1" parent="jnVpb1ak_LSvOi5Igh9p-0" />
@@ -670,15 +670,15 @@
         <mxCell id="jnVpb1ak_LSvOi5Igh9p-20" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;20&amp;nbsp; MFCC&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Georgia;" vertex="1" parent="jnVpb1ak_LSvOi5Igh9p-1">
           <mxGeometry x="415.63" y="-950" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jnVpb1ak_LSvOi5Igh9p-21" value="2 layers biLSTM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fontFamily=Georgia;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="jnVpb1ak_LSvOi5Igh9p-1">
-          <mxGeometry x="320" y="-790" width="90" height="30" as="geometry" />
+        <mxCell id="jnVpb1ak_LSvOi5Igh9p-21" value="2 layers bi-LSTM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fontFamily=Georgia;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="jnVpb1ak_LSvOi5Igh9p-1">
+          <mxGeometry x="320" y="-790" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jnVpb1ak_LSvOi5Igh9p-22" value="Self-Attention" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fontFamily=Georgia;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="jnVpb1ak_LSvOi5Igh9p-1">
           <mxGeometry x="405.63" y="-740" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jnVpb1ak_LSvOi5Igh9p-23" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Georgia;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="jnVpb1ak_LSvOi5Igh9p-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="-775" as="sourcePoint" />
+            <mxPoint x="420" y="-775" as="sourcePoint" />
             <mxPoint x="450" y="-740" as="targetPoint" />
             <Array as="points">
               <mxPoint x="450" y="-775" />
@@ -729,10 +729,10 @@
             <mxPoint x="375.63" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jnVpb1ak_LSvOi5Igh9p-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Georgia;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.442;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jnVpb1ak_LSvOi5Igh9p-1" target="jnVpb1ak_LSvOi5Igh9p-21">
+        <mxCell id="jnVpb1ak_LSvOi5Igh9p-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Georgia;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="jnVpb1ak_LSvOi5Igh9p-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="359.68" y="-840" as="sourcePoint" />
-            <mxPoint x="360.3100000000001" y="-800" as="targetPoint" />
+            <mxPoint x="360" y="-790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
