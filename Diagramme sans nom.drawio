@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T15:41:30.958Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="eostuaAjJn2pvsv-t6Bn" version="20.3.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-04T15:57:12.975Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="YdWf5OSCiJZhOndEBkFZ" version="20.3.3" type="github" pages="7">
   <diagram id="xbcVloasIDP0w_q_Y2k0" name="Process1-classic">
     <mxGraphModel dx="813" dy="57" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -913,6 +913,14 @@
         <mxCell id="0dCGvEq3GQlBQwYqoSpF-0" value="Flatten" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fontFamily=Georgia;fontSize=12;fillColor=#ffe6cc;" parent="m_vNbDEbkXz0DO186uGY-1" vertex="1">
           <mxGeometry x="333.75" y="-670" width="52.5" height="10" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-9JlhN3f99MlW-odcZVP" name="1D CNN">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
